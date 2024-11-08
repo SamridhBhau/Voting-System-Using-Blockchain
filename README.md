@@ -10,7 +10,7 @@ npm install ganache-cli
 npm install web3
 
 #install truffle
-npm install truffle 
+npm install -g truffle 
 
 ```
 
